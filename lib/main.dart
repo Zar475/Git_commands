@@ -1,3 +1,5 @@
+//checking for git commands;
+
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
 import 'model.dart';
@@ -16,7 +18,7 @@ class MyApp extends StatelessWidget {
         ],
         child: MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: 'Flutter Demo',
+          title: 'Flutter Demo1',
           theme: new ThemeData(
             primarySwatch: Colors.blue,
           ),
