@@ -1,4 +1,4 @@
-//checking for git commands;
+//changing lines for git fetch;
 
 import 'package:flutter/material.dart';
 import 'package:provider/provider.dart';
